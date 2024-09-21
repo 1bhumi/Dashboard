@@ -1,0 +1,39 @@
+.weather-container{
+    width:600px;
+    height: 400px;
+   background-color: rgb(201, 207, 210);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin: 20px auto;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 70px;
+  
+    display: flex;
+    flex-direction: column;
+}
+
+.inpt{
+    height:40px;
+    border-radius: 6px;
+}
+
+.btn{
+    width:180px;
+    height: 50px;
+    margin:15px auto;
+    
+}
+
+.Des{
+    margin: 10px auto;
+    font-size: x-large;
+}
+
+.nam{
+    text-align: center;
+}
+
+.temp{
+    text-align: center;
+}

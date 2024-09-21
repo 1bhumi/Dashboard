@@ -1,0 +1,47 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  
+ 
+}
+
+.navbar{
+  display: flex;
+  flex-direction: column;
+  font-size: xx-large;
+  height: 100%;
+  width: 250px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+  
+
+}
+
+.navbar a{
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 35px;
+  color: #818181;
+  display: block;
+  margin-top: 25px;
+  
+}
+
+.navbar a:hover {
+  color: #f1f1f1;
+}
+
+.icon{
+  color: #818181;
+  margin-left: 80px;
+  margin-top: 50px;
+  font-size: 80px;
+  margin-right: 50px;
+}

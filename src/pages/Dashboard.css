@@ -1,0 +1,33 @@
+
+  
+/* Sections layout */
+.sec1 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+  row-gap: 10px;
+
+}
+.sec1 > * {
+  margin-right: 40px; /* Adds space between Weather and Calendar components */
+}
+
+.sec2 > * {
+  margin-right: 40px; /* Adds space between Weather and Calendar components */
+}
+
+
+.sec2 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+
+.dash{
+  color: rgb(190, 205, 212);
+  margin-left: 100px;
+  margin-top: 5px;
+  
+
+}

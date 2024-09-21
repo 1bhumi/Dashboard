@@ -1,0 +1,33 @@
+
+
+/* App.css */
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+
+  .buton{
+    position: fixed;
+    top: 10px; /* Adjust the distance from the top */
+    right: 10px; /* Adjust the distance from the right */
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-right: 10px;
+    margin-top: 10px;
+    background-color: rgba(0, 0, 0, 0.471);
+    color:white;
+   
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+   
+    
+  }
+  

@@ -1,0 +1,31 @@
+/* CalendarComponent.css */
+.Page {
+    margin-left: 80px;
+    padding: 10px;
+    background-color: rgb(201, 207, 210);
+    border-radius: 8px;
+    max-width: 400px;
+    height: 470px;
+
+    
+  }
+  
+  
+  
+  .react-calendar {
+    width: 100%;
+    max-width: 100%;
+  }
+  
+  .react-calendar__tile--active {
+    background-color: #4caf50;
+    color: white;
+  }
+  
+  .react-calendar__tile--active:hover {
+    background-color: #45a049;
+  }
+  
+  .date{
+    font-size: 25px;
+  }
